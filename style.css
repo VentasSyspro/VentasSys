@@ -1,0 +1,6 @@
+/* style.css */
+
+/* Elimina el recuadro de foco (outline) en los enlaces al hacer clic */
+a:focus {
+    outline: none !important;
+}
